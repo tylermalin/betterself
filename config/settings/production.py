@@ -98,7 +98,7 @@ SECURE_SSL_REDIRECT = env.bool('DJANGO_SECURE_SSL_REDIRECT', default=True)
 ALLOWED_HOSTS = env.list('DJANGO_ALLOWED_HOSTS', default=[
     'betterself.io',
     'www.betterself.io',
-    'betterself.herokuapp.com']
+    'rdclpro.herokuapp.com']
 )
 # END SITE CONFIGURATION
 
